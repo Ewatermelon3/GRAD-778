@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 Github is storing my code
+=======
+Finding Nemo
+Cinderella
+Sleeping Beauty
+Tangeled
+Soul
+Cars
+The Little Mermaid
+>>>>>>> sub_movies
